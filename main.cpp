@@ -21,8 +21,13 @@ std::vector<bool> LessMask(std::vector<double> nums, double less_than);
 // returns a vector with true for numbers greater than the second parameters and false for those less than or equal to
 std::vector<bool> GreaterMask(std::vector<int> nums, int greater_than);
 
-int main(){
+int main()
+{
     //call each of the above functions
+<<<<<<< HEAD
+    return 1;
+=======
     return 0;
 >>>>>>> fa42d4a1ae1961be0eeb3d279c89f1df8e4b3f9e
+>>>>>>> main
 }
