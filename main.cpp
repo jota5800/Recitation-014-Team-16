@@ -25,7 +25,7 @@ int main()
 {
     //call each of the above functions
 <<<<<<< HEAD
-    return 1;
+    return 2;
 =======
     return 0;
 >>>>>>> fa42d4a1ae1961be0eeb3d279c89f1df8e4b3f9e
